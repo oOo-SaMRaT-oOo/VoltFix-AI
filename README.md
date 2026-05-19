@@ -84,6 +84,7 @@ Developed with ⚡ by **Samrat Malla**
 ***
 
 It's completely normal to be stunned when a model nails all three—especially the symmetric LLL faults which collapse the whole grid geometry! Enjoy showcasing this project!
+***
 
 ```
 ---
